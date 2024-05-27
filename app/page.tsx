@@ -10,7 +10,7 @@ export default function Home() {
         <div className="border-[2px] mx-auto mb-36">
            <Booking/>
         </div>
-        <div className="col-span-2 bg-red-100">
+        <div className="col-span-2 ">
 
            Map
         </div>
